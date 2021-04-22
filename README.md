@@ -11,7 +11,7 @@
   
 </p>
 <h1 align="center">
-    <img src="./.github/logo.png" />
+    <img src="./.github/logo_podcastr.png" />
 </h1>
 
 <h4 align="center"> 
