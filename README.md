@@ -34,7 +34,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto da NLW #05 da Rocketseat, uma aplicação para ouvir podcasts.
+🎧 Projeto da NLW #05 da Rocketseat, uma aplicação para ouvir podcasts.
 
 <!-- <a align="center" href="https://podcastr-taupe-sigma.vercel.app/">
     <img alt="Site podcastr" src="https://img.shields.io/static/v1?label=site&message=podcastr&color=4953B8&style=flat&logo=vercel">
