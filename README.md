@@ -36,15 +36,34 @@
 
 🎧 Projeto da NLW #05 da Rocketseat, uma aplicação para ouvir podcasts.
 
-<!-- <a align="center" href="https://podcastr-taupe-sigma.vercel.app/">
+<a align="center" href="https://podcastr-taupe-sigma.vercel.app/">
     <img alt="Site podcastr" src="https://img.shields.io/static/v1?label=site&message=podcastr&color=4953B8&style=flat&logo=vercel">
-</a> -->
+</a>
 
 ---
 
 <a name="-funcionalidades"></a>
 
 ## ⚙️ Funcionalidades
+
+- [x] Header da aplicação;
+- [x] Player:
+  - [x] Tocar música se estiver selecionada;
+  - [x] Botão shuffle - para tocar os podcasts de forma aleatória;
+  - [x] Botão replay - para dar replay no podcast assim que acabar;
+  - [x] Botão next - ir para o próximo podcast;
+  - [x] Botão previous - voltar para o podcast anterior;
+  - [x] Barra deslizante - pode deslizar na barra para mudar o tempo do podcast.
+- [x] Página Home:
+  - [x] Listagem dos 2 últimos episódios lançados na plataforma;
+  - [x] Lista com todos os demais episódios;
+  - [x] Pode tocar o episódio tocando no player ao lado dele.
+- [x] Página de Episódio:
+  - [x] Descrição e informações adicionais sobre o episódio;
+  - [x] Pode tocar o episódio ao pressionar o botão direito de player ao lado da thumbnail;
+  - [x] Pode voltar para a tela Home ao pressionar o botão esquerdo ao lado da thumbnail.
+- [x] Tema Omni/Dracula;
+- [x] Utilização de Context para admnistrar o contexto do player.
 
 ---
 
@@ -68,9 +87,9 @@
 
 ## 🕹️ Demonstração
 
-<!-- <a align="center" href="https://www.linkedin.com/feed/update/urn:li:activity:6774407879257657344/">
+<a align="center" href="https://www.linkedin.com/feed/update/urn:li:activity:6774407879257657344/">
     <img alt="podcastr" src="https://img.shields.io/static/v1?label=post&message=podcastr&color=0072B1&style=flat&logo=linkedin">
-</a> -->
+</a>
 
 ---
 
