@@ -88,7 +88,7 @@
 
 ## 🕹️ Demonstração
 
-<a align="center" target="blank" href="https://www.linkedin.com/feed/update/urn:li:activity:6774407879257657344/">
+<a align="center" target="blank" href="https://www.linkedin.com/posts/grochavieira_nlw05-rocketseat-nextlevelweek-activity-6791727091059691520-pngR">
     <img alt="podcastr" src="https://img.shields.io/static/v1?label=post&message=podcastr&color=0072B1&style=flat&logo=linkedin">
 </a>
 
