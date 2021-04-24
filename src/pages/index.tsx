@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { GetStaticProps } from "next";
 import Image from "next/image";
 import Head from "next/head";
@@ -5,6 +6,7 @@ import Link from "next/link";
 import { format, parseISO } from "date-fns";
 import ptBR from "date-fns/locale/pt-BR";
 
+import Loading from "../components/Loading";
 import { convertDurationToTimeString } from "../components/utils/convertDurationToTimeString";
 import { usePlayer } from "../contexts/PlayerContext";
 import { api } from "../services/api";
@@ -31,6 +33,19 @@ export default function Home({ allEpisodes, latestEpisodes }: HomeProps) {
   const { playList } = usePlayer();
 
   const episodeList = [...latestEpisodes, ...allEpisodes];
+  const [isLoading, setIsLoading] = useState(true);
+
+  setTimeout(() => {
+    setIsLoading(false);
+  }, 1500);
+
+  if (isLoading) {
+    return (
+      <>
+        <Loading />
+      </>
+    );
+  }
 
   return (
     <div className={styles.homepage}>
