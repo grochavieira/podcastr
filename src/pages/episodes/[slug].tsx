@@ -1,3 +1,4 @@
+import Head from "next/head";
 import { format, parseISO } from "date-fns";
 import ptBR from "date-fns/locale/pt-BR";
 import { GetStaticPaths, GetStaticProps } from "next";
@@ -6,12 +7,10 @@ import Image from "next/image";
 import { useRouter } from "next/router";
 
 import { convertDurationToTimeString } from "../../components/utils/convertDurationToTimeString";
+import { usePlayer } from "../../contexts/PlayerContext";
 import { api } from "../../services/api";
 
 import styles from "./episode.module.scss";
-import { usePlayer } from "../../contexts/PlayerContext";
-import React from "react";
-import Head from "next/head";
 
 interface Episode {
   id: string;

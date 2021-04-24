@@ -5,10 +5,11 @@ import Link from "next/link";
 import { format, parseISO } from "date-fns";
 import ptBR from "date-fns/locale/pt-BR";
 
-import { api } from "../services/api";
 import { convertDurationToTimeString } from "../components/utils/convertDurationToTimeString";
-import styles from "./home.module.scss";
 import { usePlayer } from "../contexts/PlayerContext";
+import { api } from "../services/api";
+
+import styles from "./home.module.scss";
 
 interface Episode {
   id: string;
