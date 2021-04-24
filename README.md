@@ -96,9 +96,10 @@
 
 ## 🚀 Como executar o projeto
 
-Este projeto contém apenas uma parte:
+Este projeto contém 2 partes:
 
 1. Frontend
+2. Fake-Backend - **[ACESSE AQUI](https://github.com/grochavieira/podcastr-fake-backend)**
 
 ### Pré-requisitos
 
@@ -106,9 +107,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Yarn](https://classic.yarnpkg.com/en/docs/install).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-<!-- ### Váriaveis de Ambiente
+### Váriaveis de Ambiente
 
-> Veja o arquivo [.env.sample](https://github.com/grochavieira/podcastr/blob/master/web/.env.sample) -->
+> Veja o arquivo [.env.sample](https://github.com/grochavieira/podcastr/blob/master/.env.sample)
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
