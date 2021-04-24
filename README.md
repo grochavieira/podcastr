@@ -118,9 +118,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
-- **[Next.js](https://nextjs.org/)**
+- **[next.js](https://nextjs.org/)**
 - **[css-Modules](https://github.com/css-modules/css-modules)**
 - **[sass](https://sass-lang.com/)**
+- **[date-fns](https://github.com/date-fns/date-fns)**
+- **[rc-slider](https://www.npmjs.com/package/rc-slider)**
 
 > Veja o arquivo [package.json](https://github.com/grochavieira/podcastr/blob/master/package.json)
 
