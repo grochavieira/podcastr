@@ -63,6 +63,7 @@
   - [x] Pode tocar o episódio ao pressionar o botão direito de player ao lado da thumbnail;
   - [x] Pode voltar para a tela Home ao pressionar o botão esquerdo ao lado da thumbnail.
 - [x] Tema Omni/Dracula;
+- [x] Utilização do json-server para consumir uma fake API;
 - [x] Utilização de Context para admnistrar o contexto do player.
 
 ---
@@ -142,6 +143,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[sass](https://sass-lang.com/)**
 - **[date-fns](https://github.com/date-fns/date-fns)**
 - **[rc-slider](https://www.npmjs.com/package/rc-slider)**
+- **[json-server](https://github.com/typicode/json-server)**
 
 > Veja o arquivo [package.json](https://github.com/grochavieira/podcastr/blob/master/package.json)
 
