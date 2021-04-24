@@ -24,7 +24,7 @@
  👉<a href="#-sobre-o-projeto" style="text-decoration: none; "> Sobre</a> <br/>
 👉<a href="#-funcionalidades" style="text-decoration: none; "> Funcionalidades</a> <br/>
 👉<a href="#-layout" style="text-decoration: none"> Layout</a> <br/>
-<!-- 👉<a href="#-demonstracao" style="text-decoration: none"> Demonstração</a> <br/> -->
+👉<a href="#-demonstracao" style="text-decoration: none"> Demonstração</a> <br/>
 👉<a href="#-como-executar-o-projeto" style="text-decoration: none"> Como executar</a> <br/>
 👉<a href="#-tecnologias" style="text-decoration: none"> Tecnologias</a> <br/>
 👉<a href="#-autor" style="text-decoration: none"> Autor</a> <br/>
@@ -50,12 +50,17 @@
 
 ## 🎨 Layout
 
-<!-- ### Página de Login
+### Página Home
 
 <div align="center">
-    <img width="100%" src="./assets/login_light.PNG" />
-    <img width="100%" src="./assets/login_dark.PNG " />
-</div> -->
+    <img width="100%" src="./assets/home_podcastr.png" />
+</div>
+
+### Página de Episódio
+
+<div align="center">
+    <img width="100%" src="./assets/episode_podcastr.png" />
+</div>
 
 ---
 
