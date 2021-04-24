@@ -5,13 +5,13 @@
 }
 
 :root {
-  --white: #13111b;
+  --purple-dark: #13111b;
+  --purple-dark-2: #191622;
+  --purple-dark-3: #0c0b12;
+  --purple-light: #988bc7;
 
-  --gray-50: #191622;
-  --gray-100: #0c0b12;
+  --light-gray: #e1e1e6;
   --gray-200: #afb2b1;
-  --gray-500: #988bc7;
-  --gray-800: #e1e1e6;
 
   --green-500: #04d361;
 
@@ -40,7 +40,7 @@
 }
 
 body {
-  background: var(--gray-50);
+  background: var(--purple-dark-2);
 }
 
 body,
@@ -48,7 +48,7 @@ input,
 textarea,
 button {
   font: 500 1rem Inter, sans-serif;
-  color: var(--gray-500);
+  color: var(--purple-light);
 }
 
 h1,
@@ -59,7 +59,7 @@ h5,
 h6 {
   font-weight: 600;
   font-family: Lexend, sans-serif;
-  color: var(--gray-800);
+  color: var(--light-gray);
 }
 
 h1 {
