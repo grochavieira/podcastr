@@ -53,13 +53,13 @@
 ### Página Home
 
 <div align="center">
-    <img width="100%" src="./assets/home_podcastr.png" />
+    <img width="100%" src="./.github/home_podcastr.png" />
 </div>
 
 ### Página de Episódio
 
 <div align="center">
-    <img width="100%" src="./assets/episode_podcastr.png" />
+    <img width="100%" src="./.github/episode_podcastr.png" />
 </div>
 
 ---
