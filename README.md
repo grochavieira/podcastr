@@ -62,7 +62,7 @@
   - [x] Descrição e informações adicionais sobre o episódio;
   - [x] Pode tocar o episódio ao pressionar o botão direito de player ao lado da thumbnail;
   - [x] Pode voltar para a tela Home ao pressionar o botão esquerdo ao lado da thumbnail.
-- [x] Tema Omni/Dracula;
+- [x] Tema inspirado no Omni/Dracula;
 - [x] Utilização do json-server para consumir uma fake API;
 - [x] Utilização de Context para admnistrar o contexto do player.
 
